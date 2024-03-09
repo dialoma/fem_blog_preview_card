@@ -69,6 +69,11 @@ h1 {
     padding-bottom: 1rem;
 }
 
+h1:hover{
+    color: var(--primary-yellow);
+    cursor: pointer;
+}
+
 .paragraph1 {
     color: var(--neutral-grey);
     font-size: 0.90rem;
